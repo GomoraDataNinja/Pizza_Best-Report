@@ -1,6 +1,6 @@
-#PROBLEM STATEMENT
+# PROBLEM STATEMENT
 
-##KPI’S REQUIREMENT
+## KPI’S REQUIREMENT
 
 We need to analyze key indicators for our pizza sales data to gain insights into our business performance. Specifically , we want to calculate the following metrics:
 
